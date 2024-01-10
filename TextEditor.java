@@ -21,7 +21,7 @@ public class TextEditor extends JFrame implements ActionListener {
 	JMenuBar menuBar;
 	
 	TextEditor() {
-		frame = new JFrame("Awesome Text Editor");
+		frame = new JFrame("NotePod:Text Editor");
 		textArea = new JTextArea();
 		menuBar = new JMenuBar();
 		
